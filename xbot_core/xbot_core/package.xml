@@ -1,6 +1,6 @@
 <package>
   <name>xbot_core</name>
-  <version>0.6.4</version>
+  <version>0.6.7</version>
   <description>
     Non-ROS software for xbot, XLAB Robot's mobile research base.
   </description>

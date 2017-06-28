@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>xbot_bringup</name>
-  <version>0.0.0</version>
+  <version>0.6.7</version>
   <description>The xbot_bringup package</description>
   <maintainer email="roc@todo.todo">roc</maintainer>
   <license>TODO</license>
