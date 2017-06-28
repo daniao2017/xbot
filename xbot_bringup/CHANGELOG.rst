@@ -2,8 +2,8 @@
 Changelog for package xbot_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.8 (2017-06-28)
+------------------
 * use new xbot urdf
 * cancel remap from scan to rplidar_scan (`#6 <https://github.com/yowlings/xbot/issues/6>`_)
   1.delete scan180
