@@ -16,9 +16,7 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>xbot_dock_drive</run_depend> 
   <run_depend>xbot_driver</run_depend>
-  <run_depend>xbot_ftdi</run_depend>
 
   <export>
     <metapackage/>
